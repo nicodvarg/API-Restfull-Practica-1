@@ -3,8 +3,7 @@ API Restful para practicar. Permite la creación, modificación y borrado de est
 
 ## Tecnologías
 - Express
-- Mongoose
-- MongoDB Atlas
+- Mongoose (MongoDB)
 - Underscore
 - bcrypt
 - mongoose-unique-validator
