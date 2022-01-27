@@ -1,4 +1,4 @@
-require("dotenv").config({ debug: true });
+require("dotenv").config();
 require("./config/config");
 
 const express = require("express");
