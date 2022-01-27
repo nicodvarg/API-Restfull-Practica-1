@@ -6,4 +6,6 @@ API Restful para practicar. Permite la creación, modificación y borrado de est
 - Mongoose
 - MongoDB Atlas
 - Underscore
-- Variables de entorno
+- bcrypt
+- mongoose-unique-validator
+- Variables de entorno (dotenv)
